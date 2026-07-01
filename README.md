@@ -5,7 +5,6 @@
 > biological analogies, engineering specifications, manufacturing routes, and a
 > Life's-Principles compliance matrix, all grounded in cited evidence.
 
-Skill 243 in the `science-industry` cluster. Built on the **Biomimicry 3.8**
 Life's Principles (Janine Benyus), the **AskNature** functional taxonomy, **TRIZ**
 bio-inspired heuristics (Vincent et al., 2006), and the **Biologically Inspired
 Design (BID)** methodology (Goel et al., Georgia Tech).
