@@ -1,4 +1,4 @@
-# Biomimicry Design Assistant (Skill 243)
+# Biomimicry Design Assistant
 
 > A structured, production-ready harness that maps an engineering challenge to
 > nature's proven solutions and returns a *Biomimicry Design Brief* ? scored
