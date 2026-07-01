@@ -34,30 +34,6 @@ invents biology from memory ? each candidate must trace to a citable source.
 
 ---
 
-## Repository layout
-
-```
-q-bio.PE/
-??? CLAUDE.md                          skill identity, build status, cross-skill reuse, cron
-??? PROJECT-detail.md                  full technical specification
-??? PROJECT-DEVELOPMENT-PHASE-TRACKING.md   phase roadmap (all phases done)
-??? SECOND-KNOWLEDGE-BRAIN.md          self-improving knowledge base (24 papers + 15 case studies)
-??? skills/
-?   ??? main.md                        7-step harness + 9-point quality gate + output format
-?   ??? sub-profile-intake.md          8-field intake + AskNature translation + 3 worked examples
-?   ??? sub-biological-researcher.md   AskNature + ArXiv (q-bio.PE/cond-mat.mtrl-sci/cs.RO) + journals
-?   ??? sub-analogy-mapper.md          4-dim rubric + TRIZ + gecko/termite worked scorings
-?   ??? sub-design-translator.md       material-analogue table + manufacturing + patents + LP grid
-??? tools/
-?   ??? knowledge_updater.py           weekly crawl4ai pipeline (DOI dedup + recency/relevance scoring)
-??? tests/
-    ??? test-scenarios.md              7 scenarios + design-validated pass/fail log
-    ??? harness-dry-run-gecko-adhesion.md        Phase 0 gecko dry-run validation
-    ??? termite-ventilation-reference-brief.md   Phase 2 E2E reference brief
-```
-
----
-
 ## Dependencies
 
 - **Runtime (knowledge updater only):** Python 3.10+
